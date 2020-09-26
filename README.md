@@ -14,7 +14,7 @@
 The repository of hands-on projects at the end of each chapter in Automate the Boring Stuff with Python by Al Sweigart.
 
 ## Screenshots
-#![Cover](.\Python Crash Course Eric Matthes\img)
+#![Cover](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/img/cover.jpg)
 
 ## Technologies
 * Python - version 3.8
