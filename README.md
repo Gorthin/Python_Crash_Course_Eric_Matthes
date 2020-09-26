@@ -31,10 +31,10 @@ Show examples of usage:
 My project solutions for [Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming by Eric Matthes](https://ehmatthes.github.io/pcc_2e/regular_index/)
 
 * Chapter 2 - Variables and Simple Data Types
-    * [Try It Yourself 2.1 and 2.2](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/2.1_2.2.py)
-    * [Try It Yourself from 2.3 to 2.7](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/2.3_2.4_2.5_2.6_2.7.py)
-    * [Try It Yourself from 2.8 to 2.9](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/2.8_2.9.py)
-    * [Try It Yourself from 2.9 to 2.10](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/2.9_2.10.py)
+    * [Try It Yourself 2.1 and 2.2](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%202/2.1_2.2.py)
+    * [Try It Yourself from 2.3 to 2.7](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%202/2.3_2.4_2.5_2.6_2.7.py)
+    * [Try It Yourself from 2.8 to 2.9](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%202/2.8_2.9.py)
+    * [Try It Yourself from 2.9 to 2.10](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%202/2.9_2.10.py)
 * Chapter 3 - Functions
     * [The Collatz Sequence](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/the-collatz-sequence)
 * Chapter 4 - Lists
