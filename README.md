@@ -11,7 +11,7 @@
 * [Contact](#contact)
 
 ## General info
-The repository of hands-on projects at the end of each chapter in Automate the Boring Stuff with Python by Al Sweigart.
+The repository of hands-on projects at the end of each chapter in Python Crash Course by Eric Matthes.
 
 ## Screenshots
 #![Cover](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/img/cover.jpg)
@@ -35,11 +35,14 @@ My project solutions for [Python Crash Course, 2nd Edition: A Hands-On, Project-
     * [Try It Yourself from 2.3 to 2.7](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%202/2.3_2.4_2.5_2.6_2.7.py)
     * [Try It Yourself from 2.8 to 2.9](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%202/2.8_2.9.py)
     * [Try It Yourself from 2.9 to 2.10](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%202/2.9_2.10.py)
-* Chapter 3 - Functions
-    * [The Collatz Sequence](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/the-collatz-sequence)
-* Chapter 4 - Lists
-    * [Comma Code](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/comma-code)
-    * [Character Picture Grid](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/character-picture-grid)
+* Chapter 3 - Introducing Lists
+    * [Try It Yourself 3.1 and 3.3](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%203/3.1_3.2_3.3.py)
+    * [Try It Yourself 3.4 and 3.7](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%203/3.4_3.5_3.6_3.7.py)
+    * [Try It Yourself 3.8 and 3.10](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%203/3.8_3.9_3.10.py)
+* Chapter 4 - Working with Lists
+    * [Try It Yourself 4.1 and 4.2](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%204/4.1_4.2_.py)
+    * [Try It Yourself 4.3 and 4.9](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%204/4.3_4.4_4.5_4.6_4.7_4.8_4.9.py)
+    * [Try It Yourself 4.10 and 4.13](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%204/4.10_4.11_4.12_4.13.py)
 * Chapter 5 – Dictionaries and Structuring Data
     * [Fantasy Game Inventory](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/fantasy-game-inventory)
 * Chapter 6 – Manipulating Strings
