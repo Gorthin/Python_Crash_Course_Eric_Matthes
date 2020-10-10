@@ -43,8 +43,10 @@ My project solutions for [Python Crash Course, 2nd Edition: A Hands-On, Project-
     * [Try It Yourself 4.1 and 4.2](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%204/4.1_4.2_.py)
     * [Try It Yourself 4.3 and 4.9](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%204/4.3_4.4_4.5_4.6_4.7_4.8_4.9.py)
     * [Try It Yourself 4.10 and 4.13](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%204/4.10_4.11_4.12_4.13.py)
-* Chapter 5 – Dictionaries and Structuring Data
-    * [Fantasy Game Inventory](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/fantasy-game-inventory)
+* Chapter 5 – if Statements
+    * [Try It Yourself 5.1 and 5.2](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%205/5.1_5.2.py)
+    * [Try It Yourself 5.3 and 5.7](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%205/5.3_5.4_5.5_5.6_5.7.py)
+    * [Try It Yourself 5.8 and 5.11](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%205/5.8_5.9_5.10_5.11.py)
 * Chapter 6 – Manipulating Strings
     * [Table Printer](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/table-printer)
 * Chapter 7 – Pattern Matching with Regular Expressions
