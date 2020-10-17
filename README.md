@@ -47,11 +47,14 @@ My project solutions for [Python Crash Course, 2nd Edition: A Hands-On, Project-
     * [Try It Yourself 5.1 and 5.2](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%205/5.1_5.2.py)
     * [Try It Yourself 5.3 and 5.7](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%205/5.3_5.4_5.5_5.6_5.7.py)
     * [Try It Yourself 5.8 and 5.11](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%205/5.8_5.9_5.10_5.11.py)
-* Chapter 6 – Manipulating Strings
-    * [Table Printer](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/table-printer)
-* Chapter 7 – Pattern Matching with Regular Expressions
-    * [Strong Pasword Detection](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/strong-password-detector)
-    * [Regex Version Of Strip](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/regex-strip)
+* Chapter 6 – Dictionaries
+    * [Try It Yourself 6.1 and 6.3](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%206/6.1_6.2_6.3.py)
+    * [Try It Yourself 6.4 and 6.6](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%206/6.4_6.5_6.6.py)
+    * [Try It Yourself 6.7 and 6.12](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%206/6.7_6.8_6.9_6.10_6.11_6.12.py)
+* Chapter 7 – User Input and while Loops
+    * [Try It Yourself 7.1 and 7.3](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%207/7.1_7.2_7.3.py)
+    * [Try It Yourself 7.4 and 7.7](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%207/7.4_7.5_7.6_7.7.py)
+    * [Try It Yourself 7.8 and 7.10](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%207/7.8_7.9_7.10.p)
 * Chapter 8 – Reading and Writing Files
     * [Extending The MultiClipboard](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/multiclipboard)
     * [Mad Libs](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/mad-libs)
