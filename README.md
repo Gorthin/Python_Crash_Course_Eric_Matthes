@@ -55,10 +55,13 @@ My project solutions for [Python Crash Course, 2nd Edition: A Hands-On, Project-
     * [Try It Yourself 7.1 and 7.3](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%207/7.1_7.2_7.3.py)
     * [Try It Yourself 7.4 and 7.7](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%207/7.4_7.5_7.6_7.7.py)
     * [Try It Yourself 7.8 and 7.10](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%207/7.8_7.9_7.10.p)
-* Chapter 8 – Reading and Writing Files
-    * [Extending The MultiClipboard](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/multiclipboard)
-    * [Mad Libs](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/mad-libs)
-    * [Regex Search](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/regex-search)
+* Chapter 8 – Functions
+    * [Try It Yourself 8.1 and 8.2](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%208/8.1_8.2.py)
+    * [Try It Yourself 8.3 and 8.5](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%208/8.3_8.4_8.5.py)
+    * [Try It Yourself 8.6 and 8.8](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%208/8.6_8.7_8.8.py)
+    * [Try It Yourself 8.9 and 8.11](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%208/8.9_8.10_8.11.py)
+    * [Try It Yourself 8.12 and 8.14](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%208/8.12_8.13_8.14.py)
+    * [Try It Yourself 8.15 and 8.16](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%208/8.15_8.16_8.17.py)
 * Chapter 9 – Organizing Files
     * [Selective Copy](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/selective-copy)
     * [Deleting Unneeded Files](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/find-unneeded-files)
