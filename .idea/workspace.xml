@@ -11,8 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="215e2d1c-b039-4ddb-91e5-0a65d51e0ed3" name="Default Changelist" comment="First program from Chapter 2.">
+      <change beforePath="$PROJECT_DIR$/.idea/Python Crash Course Eric Matthes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python Crash Course Eric Matthes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +47,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sweigart" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.r.configuration.RSettingsProjectConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.2.9_2.10">
-    <configuration name="2.1_2.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests in 11.3.py">
+    <configuration name="employee" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Crash Course Eric Matthes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,11 +58,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.1_2.2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 11/employee.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,75 +71,69 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.3_2.4_2.5_2.6_2.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_employee.TestEmployee" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Python Crash Course Eric Matthes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.3_2.4_2.5_2.6_2.7.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_employee.TestEmployee&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="2.8_2.9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in 11.3.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Python Crash Course Eric Matthes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.8_2.9.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Chapter 11/11.3.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="2.9_2.10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in test_cities.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Python Crash Course Eric Matthes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.9_2.10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Chapter 11/test_cities.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_employee.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Python Crash Course Eric Matthes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Chapter 11/test_employee.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2.9_2.10" />
-        <item itemvalue="Python.2.8_2.9" />
-        <item itemvalue="Python.2.3_2.4_2.5_2.6_2.7" />
-        <item itemvalue="Python.2.1_2.2" />
+        <item itemvalue="Python tests.Unittests in 11.3.py" />
+        <item itemvalue="Python tests.Unittests for test_employee.TestEmployee" />
+        <item itemvalue="Python.employee" />
+        <item itemvalue="Python tests.Unittests in test_employee.py" />
+        <item itemvalue="Python tests.Unittests in test_cities.py" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601112293195</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="New program from Chapter 11.">
+      <created>1604668962685</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604668962685</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,7 +191,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -199,9 +203,14 @@
     <MESSAGE value="First file." />
     <MESSAGE value="Change README.md" />
     <MESSAGE value="First program from Chapter 2." />
-    <option name="LAST_COMMIT_MESSAGE" value="First program from Chapter 2." />
+    <MESSAGE value="New program from Chapter 11." />
+    <option name="LAST_COMMIT_MESSAGE" value="New program from Chapter 11." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="606" y="28" key="CommitChangelistDialog2" timestamp="1604668961534">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="606" y="28" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604668961534" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1601110139459">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -214,29 +223,43 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="500" y="266" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1601110312244" />
-    <state width="1323" height="360" key="GridCell.Tab.0.bottom" timestamp="1601112244914">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1876" height="261" key="GridCell.Tab.0.bottom" timestamp="1604668990337">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="360" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601112244914" />
-    <state width="1323" height="360" key="GridCell.Tab.0.center" timestamp="1601112244913">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1876" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604668990337" />
+    <state width="1876" height="261" key="GridCell.Tab.0.center" timestamp="1604668990337">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="360" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601112244913" />
-    <state width="1323" height="360" key="GridCell.Tab.0.left" timestamp="1601112244913">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1876" height="261" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604668990337" />
+    <state width="1876" height="261" key="GridCell.Tab.0.left" timestamp="1604668990335">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="360" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601112244913" />
-    <state width="1323" height="360" key="GridCell.Tab.0.right" timestamp="1601112244914">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1876" height="261" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604668990335" />
+    <state width="1876" height="261" key="GridCell.Tab.0.right" timestamp="1604668990337">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="360" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601112244914" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1601110062578">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1876" height="261" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604668990337" />
+    <state x="259" y="13" key="SettingsEditor" timestamp="1604666284776">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601110062578" />
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1601112303589">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="259" y="13" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604666284776" />
+    <state x="387" y="133" key="Vcs.Push.Dialog.v2" timestamp="1604668969398">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601112303589" />
+    <state x="387" y="133" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604668969398" />
+    <state x="636" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1604751969331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604751969331" />
+    <state x="597" y="293" key="git4idea.merge.GitPullDialog" timestamp="1604752126995">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="597" y="293" key="git4idea.merge.GitPullDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604752126995" />
   </component>
 </project>
