@@ -12,7 +12,7 @@ class Ship():
         self.screen_rect = ai_game.screen.get_rect()
 
         #Load a spaceship image and retrieve its rectangle.
-        self.image = pygame.image.load('images/ship2.bmp')
+        self.image = pygame.image.load('images/ship.bmp')
         self.rect = self.image.get_rect()
 
         #Each new ship appears in the bottom center of the screen.
