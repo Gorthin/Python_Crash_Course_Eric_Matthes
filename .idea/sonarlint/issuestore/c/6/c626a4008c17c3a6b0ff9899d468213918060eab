@@ -1,0 +1,8 @@
+
+npython:S107/"KMethod "__init__" has 8 parameters, which is greater than the 7 authorized.(Τώ©ώÿÿÿÿ8¬Έ¤—Ω.
+opython:S107‰"KMethod "__init__" has 8 parameters, which is greater than the 7 authorized.(Τώ©ώÿÿÿÿ8±ΙΌΩ.
+^python:S905ά":Remove or refactor this statement; it has no side effects.(’ϊΆϋÿÿÿÿ8¬ΑρΩ.
+Ppython:S5806Τ"+Rename this variable; it shadows a builtin.(³—Ύÿÿÿÿÿ8ς€εΩ.
+npython:S107P"KMethod "__init__" has 8 parameters, which is greater than the 7 authorized.(Τώ©ώÿÿÿÿ8ωΚ¶—Ω.
+npython:S107i"KMethod "__init__" has 8 parameters, which is greater than the 7 authorized.(Τώ©ώÿÿÿÿ8±ΙΌΩ.
+}python:S5717"]Change this default value to "None" and initialize this parameter inside the function/method.(…ί³Φ8ªΑΘΩ.
