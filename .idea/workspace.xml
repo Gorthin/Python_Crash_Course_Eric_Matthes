@@ -10,9 +10,64 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="215e2d1c-b039-4ddb-91e5-0a65d51e0ed3" name="Default Changelist" comment="First program from Chapter 2.">
+    <list default="true" id="215e2d1c-b039-4ddb-91e5-0a65d51e0ed3" name="Default Changelist" comment="New program from Chapter 10.">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/070c3cf6be4ef99e71929edbbfc9c4c46730766f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/08e252f90a71b3a2b863cbce06af3d90854ed1dd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0e651da10d720128faad5732e9da6532919f81b2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/18629f2c0964543347156a914042677969e3bc83" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1a69c5c65d5f3d963cfb0609e295f739848999ea" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b761451e1e7447a2a683c18e061c80fbc112715" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/20760781f512a445587ef234a8445a0a37abb175" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/28a0d4d2abf71687f249dbba8d54cd99a6e4c4d6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/3218e44b39c87231b434efc634f92faf6d05369f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/3915c6888fe6fbdd580101c1867a817de6fb1675" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a723f3d93e228e8c1b5a316811f4bd259c8f1cf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/401bd8218effa61006f804f38e205cb1a33e8478" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4ed706515793f5fac2925a3e6ada9638f92b1db7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/50e7f67e873e58280266521950cfb4d6727bc1a0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/5281dc8e459936454425859e263a826edcbb7ba3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/5306cfa84c713345ced9cdfa9c08c81a07633957" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/555b92da643de25157663b7d8824a472d71dfae1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/557df9d0fc7ef0eb4caee5fed9839eb031d97dbc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/622fbd2af693a8125286114b310aa426540191a0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/653ddbc0f68fc2cf3ce92bd56edd045b879b524f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/69cd2ab874f6ae96cb9278c0d8ab27a0240e55f7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a577500fc95f3c3933db58e3bea2a1f0b85c776" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/814c41a12da05ea546c3d66d8989d0628b665920" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/88a4915c72bb838c3d113dabcbdd10735efee818" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a70b143bed4775eb1b4cdced6fb88fa9c9d767fa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/d/adca66ca1f4ed2c4bae9eb5577b8fd024c495ed6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/e/ae9f1f8ac2bf96c28727f387fa21c5ca03325df8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc5bbbfba2fc306f5d7411d57d6a90b25cb381a2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bcd8e8cec37bf83b7518ab0a3073dece441b92e8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c17b7d04141b2738e47404fc4d2be7b6b0179151" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c4f42ee51dc6dae30242872726a7b3ff0a990614" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c626a4008c17c3a6b0ff9899d468213918060eab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c86d42a8cc3bc3b99727b39a427a129a0212bf1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cf9a087ce6b93d69d2aba3e807b4d158a30b3911" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d008c74010643c8ccaaf7a0545cc2d3ca4c1d002" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d2a73a7967595bfe6f23e5465c2a67deccdf3873" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d57d47674494570c734de90479d637c94af48200" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db005dd9d659bf4792c479fa5bdcf5558a4fafa2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/dbd303442bbec6c3fe3abf419984b1bf96ebe878" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc186c7f10117053caf56b017b4efaf30e9d3944" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/dda7c9dd067bd09776739c3a6be259bc11b62309" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e4459b4269dccabefc265f614ae58e26aa75c2b4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e4df8530d807fb9bf2a3484661068d5ac254265d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e69fe3cad1e7d5fc4287607cbc4cd75dcb79ac72" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/8/e8dd0ec720574b5413930d20a948824c82bf78dd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea52e786cd091077c04b52b84feb10601d30d43f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f256d9a2d6364b3d01234a47db857dd62fd53bd2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/7/f73708828234f67fcb10d5bd0b244efe5b34070f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd052c696058aab9547dfdf2bfa1b2021e718bf2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ff9fa4de74c00810206eb25062154ddc4682d187" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ffa07280a34e7052392a46318995632df55e1ced" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ffa12e49bfe8e7203357f20f81074527f3392754" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alien_invasion/alien_invasion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +100,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sweigart" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.r.configuration.RSettingsProjectConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.2.9_2.10">
-    <configuration name="2.1_2.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\Python Crash Course Eric Matthes\Chapter 3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.pip">
+    <configuration name="city_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Crash Course Eric Matthes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.1_2.2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 11/city_functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.3_2.4_2.5_2.6_2.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="employee" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Crash Course Eric Matthes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.3_2.4_2.5_2.6_2.7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 11/employee.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.8_2.9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Crash Course Eric Matthes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +165,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.8_2.9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pip.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,33 +174,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.9_2.10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in test_cities.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Python Crash Course Eric Matthes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.9_2.10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Chapter 11/test_cities.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_employee.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Python Crash Course Eric Matthes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Chapter 11/test_employee.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2.9_2.10" />
-        <item itemvalue="Python.2.8_2.9" />
-        <item itemvalue="Python.2.3_2.4_2.5_2.6_2.7" />
-        <item itemvalue="Python.2.1_2.2" />
+        <item itemvalue="Python.pip" />
+        <item itemvalue="Python tests.Unittests in test_employee.py" />
+        <item itemvalue="Python.employee" />
+        <item itemvalue="Python tests.Unittests in test_cities.py" />
+        <item itemvalue="Python.city_functions" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +251,133 @@
       <option name="project" value="LOCAL" />
       <updated>1601112293195</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Change README.md">
+      <created>1601112572314</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601112572314</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add directory Chapter 2 and move file to them.">
+      <created>1601112818422</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601112818422</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add directory Chapter 2 and move file to them.">
+      <created>1601112944856</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601112944856</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Change README.md">
+      <created>1601113070883</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601113070883</updated>
+    </task>
+    <task id="LOCAL-00009" summary="New program from Chapter 3.">
+      <created>1601116002819</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1601116002819</updated>
+    </task>
+    <task id="LOCAL-00010" summary="New program from Chapter 3.">
+      <created>1601716086673</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601716086673</updated>
+    </task>
+    <task id="LOCAL-00011" summary="New program from Chapter 4.">
+      <created>1601734505936</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1601734505936</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Change README.md">
+      <created>1601734946569</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1601734946569</updated>
+    </task>
+    <task id="LOCAL-00013" summary="New program from Chapter 5.">
+      <created>1602322565920</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1602322565920</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Change README.md">
+      <created>1602322769885</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602322769885</updated>
+    </task>
+    <task id="LOCAL-00015" summary="New program from Chapter 6.">
+      <created>1602931436102</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1602931436102</updated>
+    </task>
+    <task id="LOCAL-00016" summary="New program from Chapter 7.">
+      <created>1602935306623</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1602935306623</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Changed README.md">
+      <created>1602935634231</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1602935634231</updated>
+    </task>
+    <task id="LOCAL-00018" summary="New program from Chapter 8.">
+      <created>1603530060579</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1603530060579</updated>
+    </task>
+    <task id="LOCAL-00019" summary="New program from Chapter 8.">
+      <created>1603625419384</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1603625419384</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Change README.md">
+      <created>1603625738648</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1603625738648</updated>
+    </task>
+    <task id="LOCAL-00021" summary="New program from Chapter 9.">
+      <created>1604492959908</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1604492959908</updated>
+    </task>
+    <task id="LOCAL-00022" summary="New program from Chapter 10.">
+      <created>1604599072392</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1604599072392</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,14 +390,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First file." />
-    <MESSAGE value="Change README.md" />
     <MESSAGE value="First program from Chapter 2." />
-    <option name="LAST_COMMIT_MESSAGE" value="First program from Chapter 2." />
+    <MESSAGE value="Add directory Chapter 2 and move file to them." />
+    <MESSAGE value="New program from Chapter 3." />
+    <MESSAGE value="New program from Chapter 4." />
+    <MESSAGE value="New program from Chapter 5." />
+    <MESSAGE value="New program from Chapter 6." />
+    <MESSAGE value="New program from Chapter 7." />
+    <MESSAGE value="Changed README.md" />
+    <MESSAGE value="New program from Chapter 8." />
+    <MESSAGE value="Change README.md" />
+    <MESSAGE value="New program from Chapter 9." />
+    <MESSAGE value="New program from Chapter 10." />
+    <option name="LAST_COMMIT_MESSAGE" value="New program from Chapter 10." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604598967146">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604598967146" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1601110139459">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -214,29 +425,49 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="500" y="266" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1601110312244" />
-    <state width="1323" height="360" key="GridCell.Tab.0.bottom" timestamp="1601112244914">
+    <state width="1323" height="191" key="GridCell.Tab.0.bottom" timestamp="1604675861925">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="360" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601112244914" />
-    <state width="1323" height="360" key="GridCell.Tab.0.center" timestamp="1601112244913">
+    <state width="1323" height="191" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604675861925" />
+    <state width="1323" height="191" key="GridCell.Tab.0.center" timestamp="1604675861925">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="360" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601112244913" />
-    <state width="1323" height="360" key="GridCell.Tab.0.left" timestamp="1601112244913">
+    <state width="1323" height="191" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604675861925" />
+    <state width="1323" height="191" key="GridCell.Tab.0.left" timestamp="1604675861909">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="360" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601112244913" />
-    <state width="1323" height="360" key="GridCell.Tab.0.right" timestamp="1601112244914">
+    <state width="1323" height="191" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604675861909" />
+    <state width="1323" height="191" key="GridCell.Tab.0.right" timestamp="1604675861925">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="360" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601112244914" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1601110062578">
+    <state width="1323" height="191" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604675861925" />
+    <state width="1323" height="215" key="GridCell.Tab.1.bottom" timestamp="1604493197634">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601110062578" />
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1601112303589">
+    <state width="1323" height="215" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604493197634" />
+    <state width="1323" height="215" key="GridCell.Tab.1.center" timestamp="1604493197634">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601112303589" />
+    <state width="1323" height="215" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1604493197634" />
+    <state width="1323" height="215" key="GridCell.Tab.1.left" timestamp="1604493197634">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="215" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1604493197634" />
+    <state width="1323" height="215" key="GridCell.Tab.1.right" timestamp="1604493197634">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="215" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1604493197634" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1601706695121">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601706695121" />
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1604599083590">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604599083590" />
+    <state x="320" y="137" key="git4idea.merge.GitPullDialog" timestamp="1604675148046">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="320" y="137" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1604675148046" />
   </component>
 </project>
