@@ -47,6 +47,11 @@ class Ship():
         self.rect.x = self.x
         self.rect.y = self.y
 
+    def center_ship(self):
+        """Put ship on the center bottom screen edge"""
+        self.rect.bottom = self.screen_rect.midbottom
+        self.x = float(self.rect.x)
+
     def blitme(self):
         """Displaying a spaceship in its current position."""
         self.screen.blit(self.image, self.rect)
