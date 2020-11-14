@@ -1,3 +1,5 @@
+#! python3
+
 import pygame
 from pygame.sprite import Sprite
 
