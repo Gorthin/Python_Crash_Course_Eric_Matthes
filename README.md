@@ -29,6 +29,8 @@ Show examples of usage:
 
 ## Features
 My project solutions for [Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming by Eric Matthes](https://ehmatthes.github.io/pcc_2e/regular_index/)
+    
+    PART I: Basics
 
 * Chapter 2 - Variables and Simple Data Types
     * [Try It Yourself 2.1 and 2.2](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%202/2.1_2.2.py)
@@ -62,23 +64,26 @@ My project solutions for [Python Crash Course, 2nd Edition: A Hands-On, Project-
     * [Try It Yourself 8.9 and 8.11](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%208/8.9_8.10_8.11.py)
     * [Try It Yourself 8.12 and 8.14](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%208/8.12_8.13_8.14.py)
     * [Try It Yourself 8.15 and 8.16](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%208/8.15_8.16_8.17.py)
-* Chapter 9 – Organizing Files
-    * [Selective Copy](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/selective-copy)
-    * [Deleting Unneeded Files](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/find-unneeded-files)
-    * [Filling In The Gaps](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/fill-gaps)
-* Chapter 10 – Debugging
-    * [Debugging Coin Toss](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/coin-toss)
-* Chapter 11 – Web Scraping
-    * [Command Line Emailer](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/command-line-email)
-    * [Image Site Downloader](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/image-site-downloader)
-    * [2048](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/play-2048)
-    * [Link Verification](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/link-verification)
-* Chapter 12 – Working with Excel Spreadsheets
-    * [Multiplication Table Maker](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/multiplication-table-maker)
-    * [Blank Row Inserter](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/blank-row-inserter)
-    * [Spreadsheet Cell Inverter](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/cell-inverter)
-    * [Text Files To Spreadsheet](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/text-to-spreadsheet)
-    * [Spreadsheet To Text Files](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/worksheet-to-text-files)
+* Chapter 9 – Classes
+    * [Try It Yourself 9.1 and 9.3](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%209/9.1_9.2_9.3.py)
+    * [Try It Yourself 9.4 and 9.5](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%209/9.4_9.5.py)
+    * [Try It Yourself 9.6 and 9.9](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%209/9.6_9.7_9.8_9.9.py)
+    * [Try It Yourself 9.10 and 9.12](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%209/9.10_9.11_9.12.py)
+    * [Try It Yourself 9.13 and 9.15](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%209/9.13_9.14_9.15.py)
+* Chapter 10 – Files and Exceptions
+    * [Try It Yourself 10.1 and 9.2](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%2010/10.1_10.2.py)
+    * [Try It Yourself 10.3 and 10.5](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%2010/10.3_10.4_10.5.py)
+    * [Try It Yourself 10.6 and 10.10](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%2010/10.6_10.7_10.8_10.9_10.10.py)
+    * [Try It Yourself 10.11 and 10.13](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%2010/10.11_10.12_10.13.py)
+* Chapter 11 – Testing Your Code
+    * [Try It Yourself 11.1 and 11.2](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%2011/11.1_11.2.py)
+    * [Try It Yourself 11.3](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/blob/master/Chapter%2011/11.3.py)
+    
+    
+    PART II: Projects
+      
+* Project 1: Alien Invasion
+    * [Alien Invasion - Game](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/tree/master/alien_invasion)
 * Chapter 13 – Working with PDF and Word Documents
     * [PDF Paranoia](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/pdf-paranoia)
     * [Custom Invitations As Word Documents](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/custom-invitations)
