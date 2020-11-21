@@ -1,12 +1,14 @@
 #! python3
 
 import pygame
+from pygame.sprite import Sprite
 
-class Ship():
+class Ship(Sprite):
     """A class intended for the management of a spacecraft"""
 
     def __init__(self, ai_game):
         """Spaceship initialization and its initial position."""
+        super().__init__()
 
         self.screen = ai_game.screen
         self.settings = ai_game.settings
@@ -48,8 +50,8 @@ class Ship():
         self.rect.y = self.y
 
     def center_ship(self):
-        """Put ship on the center bottom screen edge"""
-        self.rect.bottom = self.screen_rect.midbottom
+        """Center the ship on the screen."""
+        self.rect.midbottom = self.screen_rect.midbottom
         self.x = float(self.rect.x)
 
     def blitme(self):
