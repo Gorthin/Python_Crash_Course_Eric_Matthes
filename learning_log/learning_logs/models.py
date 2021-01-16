@@ -20,4 +20,7 @@ class Entry(models.Model):
 
     def __str__(self):
         """Returns the model as text."""
-        return f"{self.text[:50]}..."
+        if self.text > self.text[:50]:
+            return self.text[:50] + "..."
+        elif self.text <= self.text[:50]:
+            return self.text[:50]
