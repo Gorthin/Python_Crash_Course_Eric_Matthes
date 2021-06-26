@@ -19,6 +19,11 @@ The repository of hands-on projects at the end of each chapter in Python Crash C
 ## Technologies
 * Python - version 3.8
 * Git - version 2.28
+* Beginner’s Python Cheat Sheet - Lists,Dictionaries,  If Statements and While Loops, Functions, Classes, Files and Exceptions, Testing Your Code
+* Module Pygame
+* Module matplotlib
+* Module plotly
+* Module Django
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
@@ -84,35 +89,16 @@ My project solutions for [Python Crash Course, 2nd Edition: A Hands-On, Project-
       
 * Project 1: Alien Invasion
     * [Alien Invasion - Game](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/tree/master/alien_invasion)
-* Chapter 13 – Working with PDF and Word Documents
-    * [PDF Paranoia](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/pdf-paranoia)
-    * [Custom Invitations As Word Documents](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/custom-invitations)
-    * [Brute-Force PDF Password Breaker](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/pdf-password-breaker)
-* Chapter 14 – Working with CSV Files and JSON Data
-    * [Excel-To-CSV Converter](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/excel-to-csv-converter)
-* Chapter 15 – Keeping Time, Scheduling Tasks, and Launching Programs
-    * [Prettified Stopwatch](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/prettified-stopwatch)
-    * [Scheduled Web Comic Downloader](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/web-comic-downloader)
-* Chapter 16 – Sending Email and Text Messages
-    * [Random Chore Assignment Emailer](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/chore-assignment-emailer)
-    * [Umbrella Reminder](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/umbrella-reminder)
-    * [Auto Unsubscriber](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/auto-unsubscriber)
-    * [Controlling Your Computer Through Email](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/bittorrent-downloader)
-* Chapter 17 – Manipulating Images
-    * [Extending And Fixing The Chapter Project Programs](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/resize-add-logo)
-    * [Identifying Photo Folders On The Hard Drive](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/photo-folder-finder)
-    * [Custom Seating Cards](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/custom-seating-cards)
-* Chapter 18 – Controlling the Keyboard and Mouse with GUI Automation
-    * [Looking Busy](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/looking-busy)
-    * [Instant Messenger Bot](https://github.com/kudeh/automate-the-boring-stuff-projects/tree/master/instant-messenger-bot)
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Project 2 – Data Visualization
+    * [Chapter 15](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/tree/master/Chapter%2015)
+    * [Chapter 16](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/tree/master/Chapter%2016)
+    * [Chapter 17](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/tree/master/Chapter%2017)
+* Project 3 – Web Applications
+    * [learning_log](https://github.com/adrian88szymanski/Python_Crash_Course_Eric_Matthes/tree/master/learning_log)
 
 ## Status
-I plan to do all the practical exercises in the book.
-Project is: _in progress_.
+I did practically all the assignments in the book.
+Project is: _completed_.
 
 ## Inspiration
 This app is inspired by Eric Matthes book „Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming”
