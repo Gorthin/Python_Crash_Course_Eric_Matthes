@@ -4,7 +4,6 @@
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
@@ -24,13 +23,6 @@ The repository of hands-on projects at the end of each chapter in Python Crash C
 * Module matplotlib
 * Module plotly
 * Module Django
-
-## Setup
-Describe how to install / setup your local environement / add link to demo version.
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
 
 ## Features
 My project solutions for [Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming by Eric Matthes](https://ehmatthes.github.io/pcc_2e/regular_index/)
