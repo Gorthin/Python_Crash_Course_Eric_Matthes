@@ -9,8 +9,9 @@ https://docs.djangoproject.com/en/3.1/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.1/ref/settings/
 """
-
+import os
 from pathlib import Path
+import django_heroku
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -124,8 +125,9 @@ STATIC_URL = '/static/'
 
 # My settings
 LOGIN_URL = 'users:login'
+
+
 # Heroku settings
-import django_heroku
 django_heroku.settings(locals())
 
 if os.environ.get('DEBUG') == 'TRUE':

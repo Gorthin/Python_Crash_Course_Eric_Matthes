@@ -105,3 +105,176 @@ K
 Chapter 11/test_employee.py,c\f\cf9a087ce6b93d69d2aba3e807b4d158a30b3911
 F
 Chapter 11/employee.py,f\f\ffa07280a34e7052392a46318995632df55e1ced
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+G
+Chapter 15/15.1_15.2.py,4\e\4e02cc794bfd6f60ccee3dadb3b49b7ea20395d5
+K
+Chapter 15/15.6_2dice_D8.py,1\9\1957b48e09f413f5d057b121eefe74b8790552fc
+H
+Chapter 15/15.7_3Dice.py,6\d\6d0e50f88da07e400d4959422dd94ef4ebaed00c
+B
+Chapter 16/16.1.py,3\4\34dd24e9f924446b1033c812716c4948ebd75e19
+B
+Chapter 16/16.2.py,5\6\563ccac32e27f489b1bda81bbc93f2b73c893aca
+B
+Chapter 16/16.3.py,7\0\709fe6d3dd7099ff168d85b9b5bbe47646c8663f
+B
+Chapter 16/16.4.py,d\6\d6c821a19ba5395f06e996425fa2c690c42fdb74
+B
+Chapter 16/16.7.py,3\6\3604435903790b0cc4c98665ddd46439c363f9f5
+B
+Chapter 16/16.8.py,5\d\5d27cdf401beba2396bc0baac44e0df446a80944
+B
+Chapter 16/16.9.py,c\3\c3939470e2cf428aa8e258bbf011d22abad24a53
+E
+Chapter 16/eq_plot.py,7\9\79f987233c7b9f37dd66d8c4b067bca8a110f633
+Z
+*Chapter 16/data/death_valley_2018_full.csv,f\c\fc21faa8220e2f818d9f160e572345b4e0f37e08
+\
+,Chapter 16/data/death_valley_2018_simple.csv,c\9\c9d1853128068c7a579be0dce741feaaf1bc2a8b
+U
+%Chapter 16/data/eq_data_1_day_m1.json,9\7\9752feab75b934925dc1240941c0e633829b85f1
+U
+%Chapter 16/data/eq_data_7_day_m1.json,8\d\8d853f3637471b39cab777ef02c0d3954d3a2526
+X
+(Chapter 16/data/eq_data_30_day_2020.json,9\1\9107af2af3ad5f5f689b8aff1892cbbc007f0c72
+V
+&Chapter 16/data/eq_data_30_day_m1.json,1\6\16d7af50ed0588fa39a8d73ed39d11b9019bd1de
+V
+&Chapter 16/data/MODIS_C6_Global_7d.csv,3\0\30eed41825b78ee433e713dc2b865f46fc497a21
+U
+%Chapter 16/data/readable_eq_data.json,0\e\0ee497aca50b318e32c6e5c7980ccb6d399257f7
+Z
+*Chapter 16/data/san_franciso_2018_2019.csv,9\f\9f40ba9eb9df8233f14817b9a75a34d7a6966da5
+`
+0Chapter 16/data/sitka_weather_07-2018_simple.csv,6\1\613ccae7c02a69bca0edaeea64e00793083191aa
+[
++Chapter 16/data/sitka_weather_2018_full.csv,f\c\fca79fdf95a02fcd440071cca7d0b9194c09efa8
+]
+-Chapter 16/data/sitka_weather_2018_simple.csv,1\4\1481215f31b8ee62e2532cb9fa35f65365748fb7
+U
+%Chapter 16/data/world_fires_1_day.csv,3\4\34a05a4cb5bd464ddb2d9e0e7e87d61f88cae0dd
+U
+%Chapter 16/data/world_fires_7_day.csv,1\b\1bdc064731a06b4145f520ecfbbeeb12471aff21
+B
+Chapter 17/17.1.py,5\2\52305ec40b2d253b23f6434b68403542e0cac5c0
+B
+Chapter 17/17.2.py,4\3\431715731cd8b8fc98c4df09a90ace3471984a5d
+B
+Chapter 17/17.3.py,d\7\d7e94e65aa3b565cc75894361ce5023a60b8819f
+G
+Chapter 17/test_17.3.py,d\9\d9af02a94262c10fd2c3d81727ec6de558b97e18
+[
++learning_log/ll_env/Scripts/django-admin.py,c\a\caf522e953d03a9268cd85db95f05f85d7439961
+U
+%learning_log/learning_log/__init__.py,0\e\0eee2fbab8d70dffd627dc801d2c707699f62cca
+T
+$learning_log/ll_env/Scripts/activate,d\2\d29d4be5988def2a663f2a057afae9dfec55df91
+X
+(learning_log/ll_env/Scripts/activate.bat,0\7\073c5a1728f888e31e40195ef99a79cd37bd47b7
+X
+(learning_log/ll_env/Scripts/Activate.ps1,6\f\6fb5026b0a1e312ed1fa370283e833078a9e7490
+Q
+!learning_log/learning_log/asgi.py,6\e\6ed62174fc5ab390295fb8459c9d74af5ec84230
+Z
+*learning_log/ll_env/Scripts/deactivate.bat,8\b\8b9503882f6528ab5b374cf67f68cf6e40b14079
+Q
+!learning_log/learning_log/urls.py,5\5\55f2c7a40c7767aa0b97f587bd7e438091507a4e
+Q
+!learning_log/learning_log/wsgi.py,8\1\81d37a1c4d8012c18d341f632f29603c1a211b12
+T
+$learning_log/learning_logs/models.py,4\e\4e5d47a46d1e4333ad7ed07f2fd729313bb85561
+S
+#learning_log/learning_logs/admin.py,8\c\8c6ca8193836c7ca2d80eaf91f3092781b4cfbbc
+l
+<learning_log/learning_logs/templates/learning_logs/base.html,4\0\406845faea4464249de0c2e36e8d9b32619dd232
+m
+=learning_log/learning_logs/templates/learning_logs/index.html,b\0\b009f8579e4f0a32950a34607c69808ed679e3b1
+m
+=learning_log/learning_logs/templates/learning_logs/topic.html,9\7\979353d961d0930ae77657b5c556e8e187205c85
+n
+>learning_log/learning_logs/templates/learning_logs/topics.html,4\3\434760b8111fc1dadba49f03c69ebc8922170863
+R
+"learning_log/learning_logs/urls.py,3\e\3e30ebbb93449c25850b8caa0a97a1d168c2233d
+e
+5learning_log/learning_logs/migrations/0001_initial.py,0\7\07b2cc010cd86261605228d69799464f7f04a8b3
+c
+3learning_log/learning_logs/migrations/0002_entry.py,0\5\05bd1beb661ed2225a0a9c54df46a084e4ab7cbf
+a
+1learning_log/learning_logs/migrations/__init__.py,1\4\144a219d0de72d6e9422e6902b291604efa2709a
+V
+&learning_log/learning_logs/__init__.py,b\4\b400ea25eb318c45ea96ec87ae16ad0ca1ead1b0
+R
+"learning_log/learning_logs/apps.py,d\6\d6a7307bdee50dde05dd1ad2493bfa5816aa51b8
+S
+#learning_log/learning_logs/tests.py,e\e\ee0372db05709fb8d0cf3ffc2e9aa54a7d3bdb5a
+S
+#learning_log/learning_logs/views.py,7\b\7b23096029be3335ec4ebbd34bbc4321a3181337
+Y
+)learning_log/users/migrations/__init__.py,3\4\3495e3526bf343ce59acd408f7ded224617fd2ab
+N
+learning_log/users/__init__.py,7\c\7cebcfd0dda6dfbd21a662841dee7f213f43ce00
+K
+learning_log/users/admin.py,8\e\8e3e52f704f6886f28188629c5f1db44422c4a65
+J
+learning_log/users/apps.py,0\d\0df7786f0fcb2d12c9f34f15ce26285f0b71be62
+r
+Blearning_log/learning_logs/templates/learning_logs/edit_entry.html,b\b\bbe54dded6e1eedfdceaaeee8340307a3b265bc0
+S
+#learning_log/learning_logs/forms.py,7\8\789fe3648131c20ea4a1654772b9b5c01bfa2e94
+i
+9learning_log/users/templates/registration/logged_out.html,0\a\0aca635f20379da87f95ba10c4736bdadc989019
+d
+4learning_log/users/templates/registration/login.html,0\f\0ffe47950868870c9a80838178f47ab7a970bb51
+L
+learning_log/users/models.py,f\3\f3d63a2366e4a0ca7b8379c62894f26fd69d936e
+q
+Alearning_log/learning_logs/templates/learning_logs/new_entry.html,d\0\d07b632e7b828b953ced07ee45cfd6148e14bdec
+q
+Alearning_log/learning_logs/templates/learning_logs/new_topic.html,2\c\2c814e85d8167b71600e42d27c75279f2f4da437
+g
+7learning_log/users/templates/registration/register.html,3\1\3139c1e474e85f9112b5e1245365c3fed05150f3
+K
+learning_log/users/tests.py,8\d\8d3a5b86e4e39941748da37cf4bcaaf904ea2a7d
+J
+learning_log/users/urls.py,c\8\c8e3c6ce827ecdf65c62b5d8d990d90b57c65aaf
+K
+learning_log/users/views.py,b\1\b1da3183b2e9346185fd84312eb2207e55aa0b9f
+O
+learning_log/templates/404.html,e\d\ed5f2b663cae41f47acb623fb7107da4720e8d83
+O
+learning_log/templates/500.html,1\4\142a685d4047fab913e67581a852e0d55d41fb9d
+A
+Chapter 15/die.py,c\f\cf184866e705819ed527bb2c12256de60dc0289a
+E
+Chapter 15/example.py,f\9\f98f370c0842502bddcc919d9a08bdb424ed19c1
+I
+Chapter 15/random_walk.py,d\3\d3a5e448d553ef57dd0747e39d0ec07e25c692b5
+G
+Chapter 15/rw_visual.py,5\a\5a6a3206d95e834743d0dba4c338a6028e74dd08
+O
+Chapter 16/show_color_scales.py,5\5\55ee9663d374a3e604ce176a8b832abf8275664c
+J
+Chapter 16/eq_world_map.py,0\0\00793a6b4d85c9606999295cdf76d7abdae59a9b
+M
+Chapter 16/eq_explore_data.py,c\6\c6c2001366170b6d81833a7914de89d5b3705b83
+R
+"Chapter 17/python_respositories.py,d\4\d40d1b2e0a4370540c38b9053783bf2bb124094e
+P
+ alien_invasion/alien_invasion.py,c\d\cdee0cbe547d252adf2e48e2c80f2ea5ee382b04
+G
+alien_invasion/alien.py,e\0\e024f0408a1c19573a600862079b7298ef1be411
+H
+alien_invasion/bullet.py,2\f\2f80e1ce3343f43b722769bf9dad2bdd64b110e4
+H
+alien_invasion/button.py,3\a\3ad29f5dd3e67576f5b7b35e891d043f9b57dd7d
+L
+alien_invasion/game_stats.py,9\a\9abc08d39ee7190530dbdcd4a5feb1e7a4d45104
+L
+alien_invasion/scoreboard.py,1\5\1547fe8894da1faa39edebba6f71b8949485ff2d
+J
+alien_invasion/settings.py,f\a\fa183b01d586e2e87d997c33f478c4b336b2381d
+F
+alien_invasion/ship.py,0\a\0ac55e7ee9f8ae9cfec45fddca732602c27cf137

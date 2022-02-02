@@ -10,10 +10,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="215e2d1c-b039-4ddb-91e5-0a65d51e0ed3" name="Default Changelist" comment="First program from Chapter 2.">
+    <list default="true" id="215e2d1c-b039-4ddb-91e5-0a65d51e0ed3" name="Default Changelist" comment="New data from chapter 20">
+      <change afterPath="$PROJECT_DIR$/alien_invasion/star.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Python Crash Course Eric Matthes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python Crash Course Eric Matthes.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/20760781f512a445587ef234a8445a0a37abb175" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/20760781f512a445587ef234a8445a0a37abb175" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_log/learning_log/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/learning_log/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_log/ll_env/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/ll_env/pyvenv.cfg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +29,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -43,14 +49,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sweigart" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in 11.3.py">
-    <configuration name="employee" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.alien_invasion">
+    <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Crash Course Eric Matthes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +67,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alien_invasion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 11/employee.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alien_invasion/alien_invasion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,69 +80,97 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_employee.TestEmployee" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="eq_explore_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Crash Course Eric Matthes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 16" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_employee.TestEmployee&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 16/eq_explore_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in 11.3.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="eq_world_map" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Crash Course Eric Matthes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 16" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Chapter 11/11.3.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 16/eq_world_map.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test_cities.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="python_respositories" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Crash Course Eric Matthes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 17" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Chapter 11/test_cities.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 17/python_respositories.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test_employee.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="rw_visual" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Crash Course Eric Matthes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 15" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Chapter 11/test_employee.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 15/rw_visual.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in 11.3.py" />
-        <item itemvalue="Python tests.Unittests for test_employee.TestEmployee" />
-        <item itemvalue="Python.employee" />
-        <item itemvalue="Python tests.Unittests in test_employee.py" />
-        <item itemvalue="Python tests.Unittests in test_cities.py" />
+        <item itemvalue="Python.alien_invasion" />
+        <item itemvalue="Python.python_respositories" />
+        <item itemvalue="Python.eq_world_map" />
+        <item itemvalue="Python.eq_explore_data" />
+        <item itemvalue="Python.rw_visual" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +220,196 @@
       <option name="project" value="LOCAL" />
       <updated>1604668962685</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Change game_stats.py ver 1">
+      <created>1605346238026</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605346238026</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Change alien.py ver 2">
+      <created>1605346273491</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605346273491</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Change bullet.py ver 2">
+      <created>1605346301470</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605346301470</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Change settings.py ver 5">
+      <created>1605346327373</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605346327373</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Change ship.py ver 6">
+      <created>1605346349928</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605346349928</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Change alien_invasion.py ver 9">
+      <created>1605346382880</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605346382880</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Change button.py ver 1">
+      <created>1605954907465</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605954907465</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Change game_stats.py ver 2">
+      <created>1605954939515</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605954939515</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Change scoreboard.py ver 1">
+      <created>1605954970046</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605954970046</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Change settings.py ver 6">
+      <created>1605954996580</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605954996580</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Change ship.py ver 7">
+      <created>1605955016248</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1605955016248</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Change alien_invasion.py ver 10">
+      <created>1605955047552</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1605955047552</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Change README.md">
+      <created>1605956620584</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1605956620584</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Added star image">
+      <created>1606550466536</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1606550466536</updated>
+    </task>
+    <task id="LOCAL-00020" summary="New program from chapter 15">
+      <created>1607166075552</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1607166075552</updated>
+    </task>
+    <task id="LOCAL-00021" summary="New program from chapter 16">
+      <created>1608382626293</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1608382626293</updated>
+    </task>
+    <task id="LOCAL-00022" summary="New data from chapter 16">
+      <created>1608382711427</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1608382711427</updated>
+    </task>
+    <task id="LOCAL-00023" summary="New data from chapter 17">
+      <created>1609515732033</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1609515732033</updated>
+    </task>
+    <task id="LOCAL-00024" summary="New data from chapter 18">
+      <created>1609870091678</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1609870091678</updated>
+    </task>
+    <task id="LOCAL-00025" summary="New data from chapter 18">
+      <created>1610196733103</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1610196733103</updated>
+    </task>
+    <task id="LOCAL-00026" summary="New data from chapter 18">
+      <created>1610196791746</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1610196791746</updated>
+    </task>
+    <task id="LOCAL-00027" summary="New data from chapter 18">
+      <created>1610815967639</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1610815967639</updated>
+    </task>
+    <task id="LOCAL-00028" summary="New data from chapter 18">
+      <created>1611948232141</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1611948232141</updated>
+    </task>
+    <task id="LOCAL-00029" summary="New data from chapter 19">
+      <created>1611997440141</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1611997440141</updated>
+    </task>
+    <task id="LOCAL-00030" summary="New data from chapter 19">
+      <created>1612030153176</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1612030153176</updated>
+    </task>
+    <task id="LOCAL-00031" summary="New data from chapter 20">
+      <created>1612612764788</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1612612764788</updated>
+    </task>
+    <task id="LOCAL-00032" summary="New data from chapter 20">
+      <created>1612615609405</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1612615609405</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,75 +417,64 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First file." />
-    <MESSAGE value="Change README.md" />
     <MESSAGE value="First program from Chapter 2." />
     <MESSAGE value="New program from Chapter 11." />
-    <option name="LAST_COMMIT_MESSAGE" value="New program from Chapter 11." />
+    <MESSAGE value="Change game_stats.py ver 1" />
+    <MESSAGE value="Change alien.py ver 2" />
+    <MESSAGE value="Change bullet.py ver 2" />
+    <MESSAGE value="Change settings.py ver 5" />
+    <MESSAGE value="Change ship.py ver 6" />
+    <MESSAGE value="Change alien_invasion.py ver 9" />
+    <MESSAGE value="Change button.py ver 1" />
+    <MESSAGE value="Change game_stats.py ver 2" />
+    <MESSAGE value="Change scoreboard.py ver 1" />
+    <MESSAGE value="Change settings.py ver 6" />
+    <MESSAGE value="Change ship.py ver 7" />
+    <MESSAGE value="Change alien_invasion.py ver 10" />
+    <MESSAGE value="Change README.md" />
+    <MESSAGE value="Added star image" />
+    <MESSAGE value="New program from chapter 15" />
+    <MESSAGE value="New program from chapter 16" />
+    <MESSAGE value="New data from chapter 16" />
+    <MESSAGE value="New data from chapter 17" />
+    <MESSAGE value="New data from chapter 18" />
+    <MESSAGE value="New data from chapter 19" />
+    <MESSAGE value="New data from chapter 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="New data from chapter 20" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="606" y="28" key="CommitChangelistDialog2" timestamp="1604668961534">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="606" y="28" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604668961534" />
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1601110139459">
+    <state x="462" y="106" key="FileChooserDialogImpl" timestamp="1640082050237">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601110139459" />
-    <state x="501" y="282" key="Github.CreateGistDialog" timestamp="1601110210548">
+    <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1640082050237" />
+    <state width="1323" height="168" key="GridCell.Tab.0.bottom" timestamp="1643708387014">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="501" y="282" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1601110210548" />
-    <state x="500" y="266" key="Github.ShareDialog" timestamp="1601110312244">
+    <state width="1323" height="168" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1643708387014" />
+    <state width="1323" height="168" key="GridCell.Tab.0.center" timestamp="1643708387013">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="500" y="266" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1601110312244" />
-    <state width="1876" height="261" key="GridCell.Tab.0.bottom" timestamp="1604668990337">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="168" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1643708387013" />
+    <state width="1323" height="168" key="GridCell.Tab.0.left" timestamp="1643708387013">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="360" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601112244914" />
-    <state width="1876" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604668990337" />
-    <state width="1876" height="261" key="GridCell.Tab.0.center" timestamp="1604668990337">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="168" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1643708387013" />
+    <state width="1323" height="168" key="GridCell.Tab.0.right" timestamp="1643708387014">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="360" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601112244913" />
-    <state width="1876" height="261" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604668990337" />
-    <state width="1876" height="261" key="GridCell.Tab.0.left" timestamp="1604668990335">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="168" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1643708387014" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1643729665361">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="360" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601112244913" />
-    <state width="1876" height="261" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604668990335" />
-    <state width="1876" height="261" key="GridCell.Tab.0.right" timestamp="1604668990337">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1323" height="360" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601112244914" />
-    <state width="1876" height="261" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604668990337" />
-    <state x="259" y="13" key="SettingsEditor" timestamp="1604666284776">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601110062578" />
-    <state x="259" y="13" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604666284776" />
-    <state x="387" y="133" key="Vcs.Push.Dialog.v2" timestamp="1604668969398">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601112303589" />
-    <state x="387" y="133" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604668969398" />
-    <state x="636" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1604751969331">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="636" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604751969331" />
-    <state x="597" y="293" key="git4idea.merge.GitPullDialog" timestamp="1604752126995">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="597" y="293" key="git4idea.merge.GitPullDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604752126995" />
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1643729665361" />
   </component>
 </project>
